@@ -1,3 +1,4 @@
+<p align="center">
 ### Hello Everyone 👋
 
 I am **Necip**, a **Operations Research (MS) ** graduate.  
@@ -54,3 +55,5 @@ Connect with me and ask anything on LinkedIn
 ### ❤ Views and Followers
 ![Profile Views](https://komarev.com/ghpvc/?username=airnec&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/airnec?style=flat-square)
+
+</p>
