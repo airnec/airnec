@@ -2,7 +2,9 @@
 <h2> Hello Everyone 👋 </h2>
 </div>
 
-<p align="center"> 
+<p align="center">
+
+<img src="https://github.com/airnec/airnec/blob/master/header.png"/> </p>
 
 <h3 align="center"><b>  I am Necip, currently an Operations Research (MS) graduate. I am an Open Source Enthusiast, working on projects to solve real life problems. Feel free to connect </b></h3>
 
