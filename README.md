@@ -1,33 +1,20 @@
-<p align="center">
-    ### Hello Everyone 👋
-</p>
+### Hello Everyone 👋
 
-<p align="center">
-    I am **Necip**, a **Operations Research (MS) ** graduate.  
-    I am an **Open Source Enthusiast**, working on projects to solve real-life problems.  
-    Feel free to connect!  
-</p>
+I am **Necip**, a **Operations Research (MS) ** graduate.  
+I am an **Open Source Enthusiast**, working on projects to solve real-life problems.  
+Feel free to connect!  
+
 ---
-<p align="center">
-    ### 🙋‍♂️ About Me
-<p align="center">
-    - 🔭 I’m currently working on **Machine Learning and Backend Development**.
-</p>
-<p align="center">
-    - 🌱 I’m currently learning **.NET, C#, and Python**.
-</p>
-<p align="center">
-    - 👩🏻‍🎓 I'm looking for **Full-time Opportunities** to gain hands-on experience.
-</p>
-<p align="center">
-    - 👯 I’m looking for **collaboration on Open Source Projects** and learning from communities.
-</p>
-<p align="center">
-    Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
-</p>
-<p align="center">
-    Connect with me and ask anything on LinkedIn  
-</p>
+
+### 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Machine Learning and Backend Development**.
+- 🌱 I’m currently learning **.NET, C#, and Python**.
+- 👩🏻‍🎓 I'm looking for **Full-time Opportunities** to gain hands-on experience.
+- 👯 I’m looking for **collaboration on Open Source Projects** and learning from communities.
+
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
+Connect with me and ask anything on LinkedIn  
+
 ---
 
 ### 👩🏻‍🎓 Experiences and Volunteering
@@ -67,5 +54,3 @@
 ### ❤ Views and Followers
 ![Profile Views](https://komarev.com/ghpvc/?username=airnec&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/airnec?style=flat-square)
-
-</p>
