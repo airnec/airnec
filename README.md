@@ -1,32 +1,37 @@
-### Hello Everyone 👋
+<div align="center">
+<h2> Hello Everyone 👋 </h2>
+</div>
 
-I am **Necip**, a **Operations Research (MS) ** graduate.  
-I am an **Open Source Enthusiast**, working on projects to solve real-life problems.  
-Feel free to connect!  
+<p align="center"> 
 
+<h3 align="center"><b>  I am Necip, currently an Operations Research (MS) graduate. I am an Open Source Enthusiast, working on projects to solve real life problems. Feel free to connect </b></h3>
+
+<div align="center">
+
+<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better! <br>
+Connect with me and ask anything on <a href="https://www.linkedin.com/in/necip-d-5283aa292/"><b>LinkedIn</b></a> 
+
+<i>Happy Developing and Keep Improving!</i> :)
 ---
 
-### 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Machine Learning and Backend Development**.
-- 🌱 I’m currently learning **.NET, C#, and Python**.
-- 👩🏻‍🎓 I'm looking for **Full-time Opportunities** to gain hands-on experience.
-- 👯 I’m looking for **collaboration on Open Source Projects** and learning from communities.
+## 🙋‍♂️ About Me
+
+🔭 I’m currently working on **Machine Learning** and Backend Development.
+    
+🌱 I’m currently learning **.NET, C#, and Python** 
+ 
+ 👩🏻‍🎓 I'm looking for **Full-time Opportunites** to get hands-on experience.
+
+👯 I’m looking for collaboration on **OpenSource Projects** and learning from communities.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
-Connect with me and ask anything on LinkedIn  
-
----
-
-### 👩🏻‍🎓 Experiences and Volunteering
-- **Full Stack Developer** at **C4-Projects**.
-- **Administrative Head** at **ISA-VIT (2020-2021)**.
-- **Data Analysis Intern** at **MedTourEasy (2021)**.
-- **Winner** of **Sponsor Track** at *Code2Create 5.0*.
+Connect with me and ask anything on LinkedIn
 
 ---
 
 ### 🚀 Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg" height="40" width="40" alt=".NET"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-plain.svg" height="40" width="40" alt="C#"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
@@ -36,21 +41,37 @@ Connect with me and ask anything on LinkedIn
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"/>
 </p>
 
----
+<br/>
+
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airnec&theme=nord_dark)
 
 ### 📊 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=airnec&show_icons=true&theme=tokyonight" alt="Necip's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airnec&layout=compact&theme=tokyonight" alt="Necip's Top Languages"/>
-</p>
 
----
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=airnec&show_icons=true&theme=tokyonight" alt="Necip's GitHub Stats"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airnec&layout=compact&theme=tokyonight" alt="Necip's Top Languages"/>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
 
 ### 🤝 Connect with me:
+<p align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/-Necip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/necip-d-5283aa292/)](https://www.linkedin.com/in/necip-d-5283aa292/)
 
----
+</p>
 
 ### ❤ Views and Followers
-![Profile Views](https://komarev.com/ghpvc/?username=airnec&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/airnec?style=flat-square)
+<a href="https://github.com/vedantpople4/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=airnec">
+</a>
+
+</div>
+
