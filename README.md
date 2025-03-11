@@ -1,15 +1,17 @@
-/*
+<!--
 [<div align="center">
 <h2> Hello Everyone 👋 </h2>
 </div>](url)
-*/
+-->
+
 
 <p align="center">
 
 <img src="https://github.com/airnec/airnec/blob/main/banner-2.png"/> </p>
-
+<!--
 <h3 align="center"><b>  I am Necip, currently an Operations Research (MS) graduate. I am an Open Source Enthusiast, working on projects to solve real life problems. Feel free to connect </b></h3>
-
+-->
+<!--
 <div align="center">
 
 <br>
@@ -19,8 +21,10 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/necip-d
 <i>Happy Developing and Keep Improving!</i> :)
 
 <br/>
+-->
+<div align="center">
+<h2> 🙋‍♂️ About Me </h2>
 
-## 🙋‍♂️ About Me
 
 🔭 I’m currently working on **Machine Learning** and Backend Development.
     
@@ -30,9 +34,12 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/necip-d
 
 👯 I’m looking for collaboration on **OpenSource Projects** and learning from communities.
 
+
+
+<!--
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better!
 Connect with me and ask anything on LinkedIn
-
+-->
 <br/>
 
 ## 🚀 Languages and Tools:
@@ -51,8 +58,8 @@ Connect with me and ask anything on LinkedIn
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airnec&theme=nord_dark)
 
-<br/>
 
+<!--
 ## 📊 My GitHub Stats:
 
   <br/>
@@ -66,13 +73,17 @@ Connect with me and ask anything on LinkedIn
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+-->
+
 <br/>
 
 
 ## 🤝 Connect with me:
 <p align="left">
   
+<!--
+[![LinkedIn](https://img.shields.io/badge/-Necip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/necip-d-5283aa292/)](https://www.linkedin.com/in/necip-d-5283aa292/)
+-->
 [![LinkedIn](https://img.shields.io/badge/-Necip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/necip-d-5283aa292/)](https://www.linkedin.com/in/necip-d-5283aa292/)
 
 </p>
