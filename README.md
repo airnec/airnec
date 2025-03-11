@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://github.com/airnec/airnec/blob/main/header.png"/> </p>
+<img src="https://github.com/airnec/airnec/blob/main/banner-2.png"/> </p>
 
 <h3 align="center"><b>  I am Necip, currently an Operations Research (MS) graduate. I am an Open Source Enthusiast, working on projects to solve real life problems. Feel free to connect </b></h3>
 
